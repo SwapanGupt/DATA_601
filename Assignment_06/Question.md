@@ -1,4 +1,4 @@
-## Attached Files: File week_05_homework_XLSX_openpyxl.xlsx (21.479 KB) Attached an Excel spreadsheet that has two worksheets, "main" and "another". Each worksheet has data and visualizations. Worksheet "main" has a "patient id" column; and worksheet "another" has a "p_id" column. The "patient id" values in "main" tab are the same variable as "p_id" in "another". Submit a notebook that reads the Excel spreadsheet and produces a separate spreadsheet with the following modifications:
+### Attached Files: File week_05_homework_XLSX_openpyxl.xlsx (21.479 KB) Attached an Excel spreadsheet that has two worksheets, "main" and "another". Each worksheet has data and visualizations. Worksheet "main" has a "patient id" column; and worksheet "another" has a "p_id" column. The "patient id" values in "main" tab are the same variable as "p_id" in "another". Submit a notebook that reads the Excel spreadsheet and produces a separate spreadsheet with the following modifications:
 
 1.Use openpyxl to copy patients from "another" to "main"
 2.For patients on "another" that don't exist in "main," create new rows in "main"
