@@ -1,7 +1,7 @@
 # Write a Python notebook that generates a file containing the following data:
 
--- Email addresses
--- Phone numbers
+- Email addresses
+- Phone numbers
 Home Address
 Person's name
 Year born. Use realistic values.
